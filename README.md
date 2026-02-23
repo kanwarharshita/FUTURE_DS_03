@@ -85,5 +85,5 @@ Key Assumptions:
 4. Explore interactive features
 
 ## 👩‍💻 Author
-** Harshita Kanwar **
+*** Harshita Kanwar ***
 
